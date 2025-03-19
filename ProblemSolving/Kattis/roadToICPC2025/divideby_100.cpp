@@ -9,7 +9,7 @@
 #define sorteoRev(awa) (sort(awa.rbegin(),awa.rend())) // Mas a Menos
 using namespace std;
 
-//AC - TLE - MLE - WA
+//AC
 //https://open.kattis.com/problems/divideby100
 
 void uwo(){
